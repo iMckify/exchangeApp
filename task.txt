@@ -1,0 +1,6 @@
+Parašyti aplikacija (gali nebuti UI), kuri išpildytu reikalavimus:
+1) naudoja duota csv (prisegame) su valiutu keitimo kursais (name, exchangeRate <kursai nurodyti i EUR>)
+2) pagal naudotojo ivesta informacija (kiekis, pradine valiuta, galutine valiuta) išveda kieki i nurodyta valiuta
+3) išvedamas kiekis turi buti tikslus iki 18 skaiciu po kablelio
+4) turi automatinius testus, kurie parodo programos veiksminguma
+5) geriausia, kad butu parašyta Java, C# arba Python programavimo kalba.
